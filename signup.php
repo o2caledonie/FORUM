@@ -25,6 +25,7 @@
         </div>
 
         <button type="submit" class="btn btn-primary" name="validate">Sign Up</button>
+        <a href="login.php"><p>Already have an account? Log in</p></a>
     </form>
 
 </body>
