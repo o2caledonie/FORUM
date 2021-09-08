@@ -2,9 +2,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'includes/head.php'; ?>
-
 <body>
+
     <form class="container mt-5" method="POST">
+
 
     <?php if(isset($errorMsg)){echo '<p>'.$errorMsg.'</p>'; } ?>
         <div class="mb-3">
